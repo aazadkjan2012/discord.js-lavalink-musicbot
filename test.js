@@ -12,7 +12,7 @@ const music = new Music(bot, {
 			{ "host": "localhost", "port": 8643, "region": "asia", "password": "youshallnotpass" }
 		]
 	},
-	admins: ["455346525716086795"]
+	admins: ["631803107772334089"]
 });
 
-bot.login("TR0_L0-LOLOLOLOL0-l0l0l0l0");
+bot.login("NzE1NDI0NjcxOTM1NDk2MjIz.XtMvJg.rwgTyiKhGVXXya8XFpN5AfrrsJ8");
